@@ -1,2 +1,5 @@
 # hello-world
-First repository on GitHub :)
+
+Hello Mates!
+
+There will be some changes, made for no reason :)
